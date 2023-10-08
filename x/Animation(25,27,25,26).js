@@ -1,2 +1,6 @@
-Animation(25,27,25,26)
+indexedDB.cmp.ap
 ElementInternal
+Animation(24, 25, 23, 30)
+ErrorEvent
+document
+GamepadButton
